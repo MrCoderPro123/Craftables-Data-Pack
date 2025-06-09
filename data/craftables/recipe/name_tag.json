@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XYY"
+    ],
+    "key": {
+      "X": "minecraft:string",
+      "Y": "minecraft:paper"
+    },
+    "result": {
+      "id": "minecraft:name_tag"
+    }
+  }
